@@ -1,6 +1,6 @@
 # NodeJS Example
 
-This is basic example usage of building a web server using socket io. Feel free to use. Includes a coffeescript file as well.
+This is basic example usage of building a web server using Node. Feel free to use. Includes a coffeescript file as well.
 
 ## Uses the following libraries
 
