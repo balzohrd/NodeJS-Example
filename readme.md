@@ -14,7 +14,7 @@ This is basic example usage of building a web server using socket io. Feel free 
  
 ## Installation
 
-* **Checkout the source:** "git clone git://github.com/wookiecooking/nodejs-example.git"
+* **Checkout the source:** "git clone git://github.com/wookiecooking/NodeJS-Example.git"
 * sudo npm install
 * cd to directory, and run "node app.js"
 * Start writing your app :)
